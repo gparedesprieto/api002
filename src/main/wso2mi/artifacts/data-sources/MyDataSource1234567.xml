@@ -1,0 +1,11 @@
+<datasource>
+    <name>MyDataSource1234567</name>
+    <definition type="RDBMS">
+        <configuration>
+            <driverClassName>org.postgresql.Driver</driverClassName>
+            <url>jdbc:postgresql://localhost:5432/postgres</url>
+            <username>postgres</username>
+            <password>saq25</password>
+        </configuration>
+    </definition>
+</datasource>

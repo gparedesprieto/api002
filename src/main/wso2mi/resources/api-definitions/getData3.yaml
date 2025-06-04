@@ -1,0 +1,13 @@
+openapi: 3.0.1
+info:
+  title: getData3
+  description: API Definition of getData3
+  version: 1.0.0
+servers:
+- url: http://localhost:8290/getdata3
+paths:
+  /:
+    get:
+      responses:
+        default:
+          description: Default response

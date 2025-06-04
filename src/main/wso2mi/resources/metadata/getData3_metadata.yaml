@@ -1,0 +1,10 @@
+---
+key: "getData3-1.0.0"
+name : "getData3"
+displayName : "getData3"
+description: "getData3"
+version: "1.0.0"
+serviceUrl: "https://{MI_HOST}:{MI_PORT}/getdata3"
+definitionType: "OAS3"
+securityType: "BASIC"
+mutualSSLEnabled: false

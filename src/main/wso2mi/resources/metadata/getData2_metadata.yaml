@@ -1,0 +1,10 @@
+---
+key: "getData2-1.0.0"
+name : "getData2"
+displayName : "getData2"
+description: "getData2"
+version: "1.0.0"
+serviceUrl: "https://{MI_HOST}:{MI_PORT}/getdata2"
+definitionType: "OAS3"
+securityType: "BASIC"
+mutualSSLEnabled: false
