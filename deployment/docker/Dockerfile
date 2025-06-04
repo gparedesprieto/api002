@@ -4,3 +4,6 @@ COPY CompositeApps/*.car ${WSO2_SERVER_HOME}/repository/deployment/server/carbon
 COPY resources/wso2carbon.jks ${WSO2_SERVER_HOME}/repository/resources/security/wso2carbon.jks
 COPY resources/client-truststore.jks ${WSO2_SERVER_HOME}/repository/resources/security/client-truststore.jks
 # COPY libs/*.jar ${WSO2_SERVER_HOME}/lib/
+
+# Copia el driver PostgreSQL al directorio lib
+COPY libs/*.jar ${WSO2_SERVER_HOME}/lib/
