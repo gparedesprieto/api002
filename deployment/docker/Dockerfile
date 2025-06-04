@@ -6,4 +6,4 @@ COPY resources/client-truststore.jks ${WSO2_SERVER_HOME}/repository/resources/se
 # COPY libs/*.jar ${WSO2_SERVER_HOME}/lib/
 
 # Copia el driver PostgreSQL al directorio lib
-COPY libs/*.jar ${WSO2_SERVER_HOME}/lib/
+COPY postgresql-42.7.5.jar ${WSO2_SERVER_HOME}/lib/
