@@ -1,7 +1,7 @@
 <data name="DS002" serviceNamespace="" serviceGroup="" transports="http https" disableStreaming="true">
     <description/>
     <config id="MyDataSourceABC">
-        <property name="carbon_datasource_name">MyDataSource1234567</property>
+        <property name="carbon_datasource_name">seg017</property>
     </config>
 
     <query id="get_buscarUsuarioPG1" useConfig="MyDataSourceABC">

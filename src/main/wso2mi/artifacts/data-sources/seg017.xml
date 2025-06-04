@@ -1,5 +1,5 @@
 <datasource>
-    <name>MyDataSource1234567</name>
+    <name>seg017</name>
     <definition type="RDBMS">
         <configuration>
             <driverClassName>org.postgresql.Driver</driverClassName>
